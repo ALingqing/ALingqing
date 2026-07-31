@@ -12,4 +12,4 @@ Minecraft 服务端插件开发者，主要用 Java，偶尔写 JavaScript。
 ## 联系
 
 - 邮箱：dylingqing@qq.com
-- SpigotMC：[link](https://www.spigotmc.org/resources/antilitematica-%E2%80%94-packet-level-litematica-printer-detection-blocker.132953/)
+- SpigotMC：[AntiLitematica](https://www.spigotmc.org/resources/antilitematica-%E2%80%94-packet-level-litematica-printer-detection-blocker.132953/)
