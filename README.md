@@ -6,9 +6,20 @@
   <sub>JAVA&nbsp;·&nbsp;PAPER / SPIGOT / FOLIA&nbsp;·&nbsp;KOTLIN&nbsp;·&nbsp;FORGE&nbsp;·&nbsp;NODE.JS</sub>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java%2Ckotlin%2Cjavascript%2Ctypescript%2Cnodejs%2Cmysql%2Cgit%2Clinux&perline=8&theme=dark">
+    <img src="https://skillicons.dev/icons?i=java%2Ckotlin%2Cjavascript%2Ctypescript%2Cnodejs%2Cmysql%2Cgit%2Clinux&perline=8&theme=light" alt="技术栈">
+  </picture>
+</p>
+
 服务端插件开发者，主写 Java（Paper / Spigot / Folia），也写 Kotlin、Forge 模组和一点 Node.js。
 
 现负责 [清屿服务器](https://github.com/MCQingYu-Team) 的运营与技术开发。服务器主打生电（红石科技 / 技术向生存），Java 版与基岩版共用同一套世界。
+
+<p align="center">
+  <a href="https://github.com/MCQingYu-Team"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FMCQingYu-Team%2F.github%2Fstatus%2Fserver-status.json&style=flat-square&cacheSeconds=120" alt="清屿服务器状态"></a>
+</p>
 
 ## 项目
 
@@ -39,6 +50,13 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ALingqing&hide_border=true&theme=github-dark">
     <img height="165" src="https://streak-stats.demolab.com?user=ALingqing&hide_border=true&theme=github-light" alt="连续贡献">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/2f81f7/ALingqing">
+    <img src="https://ghchart.rshah.org/0969da/ALingqing" alt="贡献热力图">
   </picture>
 </p>
 
