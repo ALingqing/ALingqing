@@ -18,7 +18,14 @@
 现负责 [清屿服务器](https://github.com/MCQingYu-Team) 的运营与技术开发。服务器主打生电（红石科技 / 技术向生存），Java 版与基岩版共用同一套世界。
 
 <p align="center">
+  <img width="640" src="https://cdn.jsdelivr.net/gh/MCQingYu-Team/.github@main/assets/banner.svg" alt="清屿服务器 QingYu Minecraft Server">
+</p>
+
+<p align="center">
   <a href="https://github.com/MCQingYu-Team"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FMCQingYu-Team%2F.github%2Fstatus%2Fserver-status.json&style=flat-square&cacheSeconds=120" alt="清屿服务器状态"></a>
+  <a href="https://www.aqcraft.cn/"><img src="https://img.shields.io/badge/%E5%AE%98%E7%BD%91-aqcraft.cn-9bf1ff?style=flat-square&labelColor=rgba%2836%2C41%2C67%2C0.5%29" alt="清屿官网"></a>
+  <a href="https://qm.qq.com/q/UtMBMfsr8m"><img src="https://img.shields.io/badge/QQ%E7%BE%A4-%E5%8A%A0%E5%85%A5%E7%BE%A4%E8%81%8A-9bf1ff?style=flat-square&labelColor=rgba%2836%2C41%2C67%2C0.5%29" alt="QQ 群"></a>
+  <a href="https://github.com/MCQingYu-Team/QingYu-docs"><img src="https://img.shields.io/badge/%E8%A7%84%E5%88%99%E6%96%87%E6%A1%A3-QingYu--docs-9bf1ff?style=flat-square&labelColor=rgba%2836%2C41%2C67%2C0.5%29" alt="规则文档"></a>
 </p>
 
 ## 项目
@@ -37,19 +44,19 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ALingqing&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&rank_icon=github&title_color=e6edf3&text_color=8b949e&icon_color=2f81f7">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=ALingqing&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&rank_icon=github&title_color=1f2328&text_color=57606a&icon_color=0969da" alt="GitHub 数据">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ALingqing&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&rank_icon=github&locale=cn&title_color=e6edf3&text_color=8b949e&icon_color=2f81f7">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=ALingqing&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&rank_icon=github&locale=cn&title_color=1f2328&text_color=57606a&icon_color=0969da" alt="GitHub 数据">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ALingqing&layout=compact&hide_border=true&theme=transparent&langs_count=8&title_color=e6edf3&text_color=8b949e">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALingqing&layout=compact&hide_border=true&theme=transparent&langs_count=8&title_color=1f2328&text_color=57606a" alt="常用语言">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ALingqing&layout=compact&hide_border=true&theme=transparent&langs_count=8&locale=cn&custom_title=%E5%B8%B8%E7%94%A8%E8%AF%AD%E8%A8%80&title_color=e6edf3&text_color=8b949e">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALingqing&layout=compact&hide_border=true&theme=transparent&langs_count=8&locale=cn&custom_title=%E5%B8%B8%E7%94%A8%E8%AF%AD%E8%A8%80&title_color=1f2328&text_color=57606a" alt="常用语言">
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ALingqing&hide_border=true&theme=github-dark">
-    <img height="165" src="https://streak-stats.demolab.com?user=ALingqing&hide_border=true&theme=github-light" alt="连续贡献">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ALingqing&hide_border=true&theme=github-dark&locale=zh">
+    <img height="165" src="https://streak-stats.demolab.com?user=ALingqing&hide_border=true&theme=github-light&locale=zh" alt="连续贡献">
   </picture>
 </p>
 
