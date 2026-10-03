@@ -15,13 +15,10 @@
 | 项目 | 简介 |
 | --- | --- |
 | [AntiLitematica](https://www.spigotmc.org/resources/antilitematica-%E2%80%94-packet-level-litematica-printer-detection-blocker.132953/) | 数据包级投影打印机检测与拦截，已在 SpigotMC 上架 |
-| [MetroPass](https://github.com/ALingqing/MetroPass) | 地铁月票 / 学生票插件，30 天免票且不改动 Metro 本体 |
 | [QshopWebUI](https://github.com/ALingqing/QshopWebUI) | QuickShop-Hikari 商店的网页管理系统，Paper 单插件方案 |
 | [AQ-Iusse](https://github.com/MCQingYu-Team/AQ-Iusse) | 用游戏内指令向 GitHub 仓库提交 Issue 的工单插件 |
 | [TpOffline](https://github.com/ALingqing/TpOffline) | `/tpo` 传送到离线玩家的最后下线位置 |
-| [PlayerMusic](https://github.com/ALingqing/PlayerMusic) | Spigot 音乐播放插件（Kotlin 编写） |
 | [s3ai-vscode](https://github.com/ALingqing/s3ai-vscode) | 把 S3AI 模型接入 VS Code 聊天，支持流式输出与工具调用 |
-| [WeComBot](https://github.com/ALingqing/WeComBot) | 企业微信通用消息桥接器（Node.js） |
 
 更多见 [GitHub Repositories](https://github.com/ALingqing?tab=repositories)。
 
